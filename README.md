@@ -1,2 +1,2 @@
 # chat-frontend
-chat frontend project with Gulp - bower - ReactJS.
+chat frontend project with NodeJS + ReactJS.
